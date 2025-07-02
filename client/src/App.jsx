@@ -6,15 +6,18 @@ import Home from './pages/Home'
 import Registration from './pages/Registration'
 import Login from './pages/Login'
 import { ToastContainer } from 'react-toastify'
-import Dashboard from './pages/Dashboard'
-import AddMoney from './Pages/DashboardPages/AddMoney'
-import AccInfo from './pages/dashboardPages/AccInfo'
-import Statement from './Pages/DashboardPages/Statement'
-import ResetPassword from './Pages/DashboardPages/ResetPass'
-import ShowBalance from './Pages/DashboardPages/ShowBalance'
-import MiniStatement from './Pages/DashboardPages/MiniStatement'
-import WithdrawMoney from './Pages/DashboardPages/WithdrawMoney'
+
 import About from './pages/About'
+import Dashboard from './pages/Dashboard'
+import AddMoney from './pages/dashboardPages/AddMoney'
+import  AccInfo  from './pages/dashboardPages/AccInfo'
+import Statement from './pages/dashboardPages/Statement'
+
+import WithdrawMoney from './pages/dashboardPages/WithdrawMoney'
+import ResetPassword from './pages/dashboardPages/ResetPass'
+import ShowBalance from './pages/dashboardPages/ShowBalance'
+import MiniStatement from './pages/dashboardPages/MiniStatement'
+
 
 
 
